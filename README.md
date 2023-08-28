@@ -9,4 +9,7 @@
 
 ***Step 1: Install Jenkins in WSL 2***
 
-You can install Jenkins in WSL 2 by following these commands:
+You can install Jenkins in WSL 2 by running the script jenkinsinstallation.sh
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/19d46ea6-d33b-4245-ba12-c8d6b5dd26c8)
+
