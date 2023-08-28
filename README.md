@@ -6,3 +6,7 @@ Prerequisites:
 - Make sure you have WSL 2 and Ubuntu installed on your Windows machine.
 - Rancher Desktop should be installed and running.
 - VS Code should be installed with the necessary extensions for Docker, Kubernetes, and Jenkins.
+
+- Step 1: Install Jenkins in WSL 2
+
+You can install Jenkins in WSL 2 by following these commands:
