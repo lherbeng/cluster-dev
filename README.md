@@ -11,7 +11,8 @@
 
 You can install Jenkins in WSL 2 by running the script jenkinsinstallation.sh
 
-![image](https://github.com/lherbeng/cluster-dev/assets/72662912/19d46ea6-d33b-4245-ba12-c8d6b5dd26c8
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/1e17ddbb-2399-4cbd-b140-781a195b093b)
+
 
 Jenkins should now be installed and running in your WSL 2 Ubuntu instance. Access the Jenkins web interface by opening your web browser and navigating to http://localhost:8080. Follow the setup wizard to complete the Jenkins installation.
 
