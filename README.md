@@ -33,7 +33,7 @@ After Jenkins is installed, install the necessary plugins for Rancher, Docker, a
 
 4. Validating a Jenkinsfile using Visual Studio Code can be done using the "Jenkins Pipeline Linter Connector" extension. This extension allows you to lint (validate) your Jenkinsfile directly within Visual Studio Code, providing instant feedback on any syntax errors or issues. Here's how you can set it up and use it:
 
-- Install Visual Studio Code: If you haven't already, download and install Visual Studio Code from the official website.
+- Install Visual Studio Code: If you haven't already, download and install Visual Studio Code from the official website [Configure Probes](https://code.visualstudio.com/).
 
 5. Install Jenkins Pipeline Linter Connector Extension:
 
