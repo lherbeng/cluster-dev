@@ -28,3 +28,4 @@ After Jenkins is installed, install the necessary plugins for Rancher, Docker, a
 - Docker Pipeline
 - Rancher
 
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a62e095c-d6da-4081-a1cd-5b52d5c06d05)
