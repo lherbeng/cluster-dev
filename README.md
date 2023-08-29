@@ -21,6 +21,9 @@ Jenkins should now be installed and running in your WSL 2 Ubuntu instance. Acces
 After Jenkins is installed, install the necessary plugins for Rancher, Docker, and Kubernetes. You'll need these plugins to create a pipeline that interacts with your Rancher RKE cluster.
 
 1. Go to the Jenkins dashboard (usually at http://localhost:8080).
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a62e095c-d6da-4081-a1cd-5b52d5c06d05)
+
 2. Click on "Manage Jenkins" > "Manage Plugins" > "Available."
 3. Search for and install the following plugins:
    
@@ -28,4 +31,4 @@ After Jenkins is installed, install the necessary plugins for Rancher, Docker, a
 - Docker Pipeline
 - Rancher
 
-![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a62e095c-d6da-4081-a1cd-5b52d5c06d05)
+
