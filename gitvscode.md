@@ -19,7 +19,8 @@ Initialize Repository
 
 To upload the files, we have two process
 
-![image](https://github.com/lherbeng/cluster-dev/assets/72662912/111e0929-02c4-4acc-849a-8f97349e0dac)
+![image](https://github.com/lh![image](https://github.com/lherbeng/cluster-dev/assets/72662912/30a48355-9e72-4719-8943-58bc07b018b9)
+erbeng/cluster-dev/assets/72662912/111e0929-02c4-4acc-849a-8f97349e0dac)
 
 
 # ***Error***
@@ -27,6 +28,16 @@ To upload the files, we have two process
 If you encounter this error, follow the instructions below:
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/1bb598b7-481b-47fd-992e-828dfa81e63d)
+
+To fix the error:
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/c6fd8243-c75f-42b5-b610-dff02640289c)
+
+To verify your configuration:
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/d4ba761b-5a96-4704-b16c-fe2832ff47e0)
+
+
 
 
 
