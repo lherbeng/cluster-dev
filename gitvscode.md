@@ -17,4 +17,19 @@ Initialize Repository
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/cb532136-3b52-4a58-bf65-704ba088f7e1)
 
+To upload the files, we have two process
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/111e0929-02c4-4acc-849a-8f97349e0dac)
+
+
+***Error***
+
+If you encounter this error, follow the instructions below:
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/1bb598b7-481b-47fd-992e-828dfa81e63d)
+
+
+
+
+
 
