@@ -26,7 +26,12 @@ View > Command Pallete > Add Remote > add View > Command Pallete > Add https://g
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/6241b628-be84-4fa9-8115-90a718926a24)
 
 
-# ***Error***
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/16814f56-8620-4889-800b-ac1fa208c4d9)
+
+
+
+# ***Error 1***
 
 If you encounter this error, follow the instructions below:
 
@@ -42,8 +47,11 @@ To verify your configuration:
 
 
 
+# ***Error 2***
 
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a3310606-1f6d-4387-a856-c6789f006f2f)
 
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/67100141-a1fa-4d65-89bb-6bf3fff8c700)
 
 
 
