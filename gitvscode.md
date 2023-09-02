@@ -8,3 +8,13 @@
 Open Visual Studio Code > Settings > Search for Git enable 
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/518798c2-4ee5-4800-b255-7a7e25cd6280)
+
+After Git installation, reload the Visual Studio Code and open an existing project.
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/9e9820e9-75f2-4415-aa2d-3d87ede05f07)
+
+Initialize Repository 
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/cb532136-3b52-4a58-bf65-704ba088f7e1)
+
+
