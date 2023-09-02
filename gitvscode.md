@@ -22,6 +22,12 @@ To upload the files, we have two process
 ![image](https://github.com/lh![image](https://github.com/lherbeng/cluster-dev/assets/72662912/30a48355-9e72-4719-8943-58bc07b018b9)
 erbeng/cluster-dev/assets/72662912/111e0929-02c4-4acc-849a-8f97349e0dac)
 
+View > Command Pallete > Add Remote
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/ea4f9191-36e0-4ad0-9e25-69d5ccb1408a)
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/6241b628-be84-4fa9-8115-90a718926a24)
+
 
 # ***Error***
 
