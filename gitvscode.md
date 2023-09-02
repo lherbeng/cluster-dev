@@ -19,7 +19,7 @@ Initialize Repository
 
 To upload the files, we have two process
 
-![image](https://github.com/lh![image](https://github.com/lherbeng/cluster-dev/assets/72662912/30a48355-9e72-4719-8943-58bc07b018b9)
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/30a48355-9e72-4719-8943-58bc07b018b9)
 erbeng/cluster-dev/assets/72662912/111e0929-02c4-4acc-849a-8f97349e0dac)
 
 View > Command Pallete > Add Remote > add View > Command Pallete > Add https://github.com/lherbeng/cluster-dev.git
