@@ -27,7 +27,7 @@ Dashboard > MyFirstJob > Configuration > Source Code Management
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/9e50c8ff-ef66-4633-814b-4ba1c8813dfd)
 
-No need to add Credentials if you're repository is public
+No need to add Credentials if your repository is public
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a8026a12-90b0-46d0-803c-afd4dae29a3a)
 
