@@ -31,8 +31,17 @@ No need to add Credentials if your repository is public
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/a8026a12-90b0-46d0-803c-afd4dae29a3a)
 
+github.com > repository > branch is main
 
 ![image](https://github.com/lherbeng/cluster-dev/assets/72662912/3c0bb654-8fbc-4db4-bab9-4144d396205c)
+
+Dashboard > MyFirstJob > Configuration > Branches to build > by default it is */master
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/73b58d96-41ff-45eb-a275-ad6d752436d2)
+
+Dashboard > MyFirstJob > Configuration > Additional Behaviours > Local subdirectory for repo > Save
+
+![image](https://github.com/lherbeng/cluster-dev/assets/72662912/7bab68e5-45b9-4261-9d54-8c907c837de1)
 
 
 
